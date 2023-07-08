@@ -4,7 +4,6 @@
 - 😄 ele/dele
 
  ![Hugo.Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugodelelis&show_icons=true&theme=tokyonight)
- <br>
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodelelis&hide=javascript,htmlicons=true&theme=tokyonight)
 
   <div style="display: inline_block"><br>
