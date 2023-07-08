@@ -4,7 +4,7 @@
 - 😄 ele/dele
 
  ![Hugo.Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugodelelis&show_icons=true&theme=tokyonight)
- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+ [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodelelis&size_weight=0.5&count_weight=0.5)
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
