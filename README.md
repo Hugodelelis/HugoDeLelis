@@ -1,4 +1,4 @@
-### print("Hello Wordl")
+### print("Hello wordl")
 - 🔭Dev Front-end
 - 🌱 UI/UX
 - 😄 ele/dele
