@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=header"/>
  print("Hello Wordl")
  
- ![Hugo.Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugodelelis&show_icons=true&theme=dracula)
+ ![Hugodelelis GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugodelelis&show_icons=true&theme=dracula)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodelelis&hide_progress=true&theme=dracula )
 
   <div style="display: inline_block"><br>
