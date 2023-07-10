@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=header"/>
  print("Hello Wordl")
  
- ![Hugodelelis GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugodelelis&show_icons=true&theme=dracula)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodelelis&hide_progress=true&theme=dracula )
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugodelelis&icons=true&theme=dracula)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodelelis&progress=true&theme=dracula )
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Hugo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
