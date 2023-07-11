@@ -4,8 +4,8 @@
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugodelelis&icons=true&theme=tokyonight)
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="100px" width="300px" align="right" alt="Computador iuriCode">
 
-
-  <div style="display: inline_block"><br>
+ <br>
+ <div style="display: inline_block"><br>
   <img align="center" alt="Hugo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hugo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Hugo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
