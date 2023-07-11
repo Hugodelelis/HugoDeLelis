@@ -2,7 +2,6 @@
  🟣print("Hello Wordl")
  
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugodelelis&icons=true&theme=tokyonight)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodelelis&progress=true&theme=tokyonight)
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
