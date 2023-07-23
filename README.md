@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=header"/>
  🟣print("Hello Wordl")
  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugodelelis&icons=true&theme=tokyonight)
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
  <div style="display: inline_block"><br>
