@@ -1,10 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=header"/>
  🟣print("Hello Wordl")
  <br>
- Oi, sou Hugo, Dev full stack
+ Oi, sou Hugo.Dev desenvolvedor full stack trabalhando a 1 ano como free lancer.
  
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
-
  <div style="display: inline_block"><br>
   <img align="center" alt="Hugo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hugo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
