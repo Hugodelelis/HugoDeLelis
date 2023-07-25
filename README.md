@@ -2,8 +2,8 @@
  🟣print("Hello Wordl")
  <br>
  🟣Oi, sou Hugo.Dev desenvolvedor full stack trabalhando a 1 ano como free lancer.
- 
- <div style="display: inline_block"><br>
+  <hr>
+ <div style="display: inline_block"> <br>
   <img align="center" alt="Hugo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hugo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Hugo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
