@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=header"/>
- 🟣Oi, sou Hugo.Dev desenvolvedor full stack trabalhando a 1 ano como free lancer.
+ 🟣Oi, sou Hugo.Dev desenvolvedor full stack trabalhando como free lancer.
   <hr>
   meus conhecimentos:
  <div style="display: inline_block"> <br>
